@@ -1,2 +1,2 @@
-# AndroidST1
+# Android Studio 1
 Tugas android studio 1
